@@ -1,0 +1,11 @@
+/Users/osmarenrique/Projects/Fibo2/Fibo2/bin/Debug/netcoreapp2.0/Fibo2.deps.json
+/Users/osmarenrique/Projects/Fibo2/Fibo2/bin/Debug/netcoreapp2.0/Fibo2.runtimeconfig.json
+/Users/osmarenrique/Projects/Fibo2/Fibo2/bin/Debug/netcoreapp2.0/Fibo2.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/Fibo2/Fibo2/bin/Debug/netcoreapp2.0/Fibo2.dll
+/Users/osmarenrique/Projects/Fibo2/Fibo2/bin/Debug/netcoreapp2.0/Fibo2.pdb
+/Users/osmarenrique/Projects/Fibo2/Fibo2/obj/Debug/netcoreapp2.0/Fibo2.csprojResolveAssemblyReference.cache
+/Users/osmarenrique/Projects/Fibo2/Fibo2/obj/Debug/netcoreapp2.0/Fibo2.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/Fibo2/Fibo2/obj/Debug/netcoreapp2.0/Fibo2.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/Fibo2/Fibo2/obj/Debug/netcoreapp2.0/Fibo2.AssemblyInfo.cs
+/Users/osmarenrique/Projects/Fibo2/Fibo2/obj/Debug/netcoreapp2.0/Fibo2.dll
+/Users/osmarenrique/Projects/Fibo2/Fibo2/obj/Debug/netcoreapp2.0/Fibo2.pdb
